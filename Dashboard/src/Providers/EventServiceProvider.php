@@ -1,6 +1,6 @@
 <?php
 
-namespace Dashboard;
+namespace Techmonstar\Dashboard\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

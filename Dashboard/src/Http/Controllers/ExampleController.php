@@ -1,6 +1,6 @@
 <?php
 
-namespace Dashboard;
+namespace Techmonstar\Dashboard\Http\Controllers;
 
 use Illuminate\Routing\Controller;
 use Illuminate\Http\Request;
